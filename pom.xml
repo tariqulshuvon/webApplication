@@ -14,7 +14,7 @@
 	<name>webApplication</name>
 	<description>A WebApp for Abeer Restaurant</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 
